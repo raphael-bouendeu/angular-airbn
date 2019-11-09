@@ -1,0 +1,20 @@
+.navbar {
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.nav-item {
+    font-size: 14px;
+}
+
+.navbar-brand {
+    margin-right: 30px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+.search-inp {
+    height: 50px;
+    width: 300px;
+}
